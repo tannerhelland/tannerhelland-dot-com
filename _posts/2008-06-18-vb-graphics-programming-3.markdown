@@ -13,7 +13,7 @@ redirect_from:
 
 **Advanced API Pixel Routines**
 
-Next comes two advanced ways of getting and setting pixels in Visual Basic: the API routines of `GetBitmapBits`/`SetBitmapBits` and `GetDIBits`/`StretchDIBits`.  If you haven't already, I strongly recommend reading the previous two tutorials, ["Pure VB Pixel Routines"](2008/06/17/vb-graphics-programming-1) and ["Basic API Pixel Routines,"](2008/06/17/vb-graphics-programming-2) as they provide the foundation for the advanced graphics principles discussed in this section.
+Next comes two advanced ways of getting and setting pixels in Visual Basic: the API routines of `GetBitmapBits`/`SetBitmapBits` and `GetDIBits`/`StretchDIBits`.  If you haven't already, I strongly recommend reading the previous two tutorials, ["Pure VB Pixel Routines"](2008/06/17/vb-graphics-programming-1/) and ["Basic API Pixel Routines,"](2008/06/17/vb-graphics-programming-2/) as they provide the foundation for the advanced graphics principles discussed in this section.
 
 Assuming that you now understand how to use both Visual Basic and the API to get per-pixel data, it's time to move to the next - and most difficult - section of these tutorials.  Next we are going to discuss the API routines of `GetBitmapBits`/`SetBitmapBits` and `GetDIBits`/`StretchDIBits`.  Both sets of routines are very fast and very powerful, but they come with a strong disclaimer - **pay close attention to any warnings on this page**.  Because these API routines directly interface the heap (dynamically allocated memory), you can easily crash both the VB IDE and/or Windows with a page fault or worse if you use them incorrectly.  Believe me - it's not a pretty sight to watch your entire machine freeze because you accidentally allocated your array to the wrong size.  (But it gives you a good taste of programming in non-BASIC languages, heh heh.)
 
@@ -23,7 +23,7 @@ On to the programming!
 
 **I - Declaring the Necessary API Functions**
 
-At this point in your VB career you are probably used to interacting with images one pixel at a time (using something like the afore-taught `.Point`/`.PSet` or `GetPixel`/`SetPixel`/`V`).  These functions are simple to use, but that ease comes at the cost of speed. Many things cause these functions to be slow ([as discussed in the first page of this tutorial](2008/06/17/vb-graphics-programming-1)), so you must be wondering - is there a way to remove some of those speed barriers?
+At this point in your VB career you are probably used to interacting with images one pixel at a time (using something like the afore-taught `.Point`/`.PSet` or `GetPixel`/`SetPixel`/`V`).  These functions are simple to use, but that ease comes at the cost of speed. Many things cause these functions to be slow ([as discussed in the first page of this tutorial](2008/06/17/vb-graphics-programming-1/)), so you must be wondering - is there a way to remove some of those speed barriers?
 
 Enter `GetBitmapBits` and `SetBitmapBits`.  The big advantage of these two API calls is this: rather than extracting or setting each pixel in an image individually, we pass each of these functions an array and let them fill the whole thing at once with the picture's pixel data (or set the picture's pixel data all at once with the information in the array).  This is obviously much more efficient.  The trade-off, of course, is that these techniques involve a little more programming and significantly more risk.  If the array dimensions are off by a mere _1 byte_ all kinds of things can happen - the picture won't appear at all, your program will shut itself down, or VB will freeze.  But these only happen if you're careless and don't heed my warnings, so pay close attention and you'll be fine.
 
@@ -331,7 +331,7 @@ It may surprise you, but in the next tutorial we're going to get this program ru
 
 Before we continue, however, I am including an optional section regarding the infamous 4-bit alignment issue associated with DIB sections.  If you are interested in using DIB sections only casually, this issue may not apply to you.  If, however, you plan on using DIB sections extensively, this issue is critical.  DIB sections have trouble if you use them on an image whose width is not a multiple of 4.  We'll discuss how to deal with this problem in the optional section below.
 
-[**Continue to Part 4: even more graphics performance optimizations**](2008/06/17/vb-graphics-programming-4)
+[**Continue to Part 4: even more graphics performance optimizations**](2008/06/17/vb-graphics-programming-4/)
 
 **VI - OPTIONAL: The Infamous 4-Byte Alignment Issue**
 
@@ -368,4 +368,4 @@ Using a temp variable to store the x * 3 value actually makes this faster than t
 
 Streams, mentioned in the next tutorial, also need to be 4-byte aligned.
 
-[**Continue to Part 4: even more graphics performance optimizations**](2008/06/17/vb-graphics-programming-4)
+[**Continue to Part 4: even more graphics performance optimizations**](2008/06/17/vb-graphics-programming-4/)

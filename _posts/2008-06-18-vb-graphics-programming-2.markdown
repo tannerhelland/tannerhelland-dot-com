@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 **Basic API Pixel Routines**
-Next, let's discuss the basics of per-pixel graphics programming using the simple API routines of `GetPixel` and `SetPixel`/`SetPixelV`.  If you haven't already, I recommend reading [the previous page, "Pure VB Pixel Routines,"](2008/06/17/vb-graphics-programming-1) as it provides the foundation for the advanced graphics principles discussed in this and the next two sections.
+Next, let's discuss the basics of per-pixel graphics programming using the simple API routines of `GetPixel` and `SetPixel`/`SetPixelV`.  If you haven't already, I recommend reading [the previous page, "Pure VB Pixel Routines,"](2008/06/17/vb-graphics-programming-1/) as it provides the foundation for the advanced graphics principles discussed in this and the next two sections.
 
 Assuming that you now understand how to use built-in Visual Basic functions to get per-pixel data, it is time to extend that information a little bit further to include the Windows API.  For those who don't know, the Windows API is a collection of dynamically linked libraries (so-called 'DLL files') that contain commonly used programming routines.  These routines, or "interfaces" (API = Application Programming Interface) range from I/O to networking to multimedia, and they generally work much faster than the intrinsic Visual Basic routines.  The API that we are going to be looking at is called "GDI32," which stands for Graphic Device Interface: 32-bit version.  (This dll is included with every Windows OS since Win95, so no matter what OS you are using with VB 5/6 this method will work.)
 
@@ -42,7 +42,7 @@ The values inside of the parentheses are nothing more than variable declarations
 	
   * `crColor` in `SetPixel` and `SetPixelV` is the color that we want to set pixel (x,y) to.  This is identical to the 'Color' part of the `PSet` call.  (I'm not entirely sure why this is typically declared as "crColor"; you could call it anything you wanted, but convention seems to stick to "crColor." Go figure...)
 
-Looks familiar, eh? You should be able to recognize some major similarities between these calls and `Point`/`PSet`. If you don't, you may want to reread the [previous tutorial page](2008/06/17/vb-graphics-programming-1).
+Looks familiar, eh? You should be able to recognize some major similarities between these calls and `Point`/`PSet`. If you don't, you may want to reread the [previous tutorial page](2008/06/17/vb-graphics-programming-1/).
 
 **II - Using Our New Friend, GetPixel**
 
@@ -55,7 +55,7 @@ Let's demonstrate.  If you wanted to get a color from pixel (35, 42) of picture
 
 I hope this looks painfully easy, because that's exactly what it is.
 
-Now that you've gotten your color into a variable of type `Long`, you still have to [extract the individual red, green, and blue components](2008/06/17/vb-graphics-programming-1) just like before. I'm not going to repeat all that stuff, so just cut and paste those functions out of the last tutorial if you need them.
+Now that you've gotten your color into a variable of type `Long`, you still have to [extract the individual red, green, and blue components](2008/06/17/vb-graphics-programming-1/) just like before. I'm not going to repeat all that stuff, so just cut and paste those functions out of the last tutorial if you need them.
 
 **III - Setting Pixels Using SetPixel and SetPixelV**
 
@@ -114,4 +114,4 @@ Also, there is this problem of having to use `GetPixel`/`SetPixel` for every sin
 Well believe-it-or-not, our next tutorial will explain how to do just that - get Windows to give us all of an image's pixel data at once, nicely parsed into its red, green, and blue components.  These are commonly referred to as **DIB sections**, the most powerful API graphics call you can use from within VB.
 
 
-**[Continue to Part 3: Advanced API Pixel Routines](2008/06/17/vb-graphics-programming-3)**
+**[Continue to Part 3: Advanced API Pixel Routines](2008/06/17/vb-graphics-programming-3/)**
