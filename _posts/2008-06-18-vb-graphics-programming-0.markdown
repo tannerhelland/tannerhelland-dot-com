@@ -35,4 +35,4 @@ What this tutorial will not cover is how to do specific image editing routines (
 
 Are you excited?  You should be!  On to the tutorials!
 
-**[Continue to Part 2: Pure VB Pixel Routines](2008/06/17/vb-graphics-programming-1/)**
+**[Continue to Part 2: Pure VB Pixel Routines](2008/06/18/vb-graphics-programming-1/)**

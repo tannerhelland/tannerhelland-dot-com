@@ -103,11 +103,11 @@ All source code for the following projects is hosted in [a single GitHub reposit
 
 ## Tutorials
     
-  * [VB Graphics Programming: An Introduction](2008/06/17/vb-graphics-programming-0)
-  * [VB Graphics Programming: Part 1 - Pure VB (PSet and Point)](2008/06/17/vb-graphics-programming-1)
-  * [VB Graphics Programming: Part 2 - Beginning API (GetPixel and SetPixel)](2008/06/17/vb-graphics-programming-2)
-  * [VB Graphics Programming: Part 3 - Advanced API (GetBitmapBits/SetBitmapBits and GetDIBits/StretchDIBits)](2008/06/17/vb-graphics-programming-3)
-  * [VB Graphics Programming: Part 4 - Advanced Optimizations](2008/06/17/vb-graphics-programming-4)
+  * [VB Graphics Programming: An Introduction](2008/06/18/vb-graphics-programming-0)
+  * [VB Graphics Programming: Part 1 - Pure VB (PSet and Point)](2008/06/18/vb-graphics-programming-1)
+  * [VB Graphics Programming: Part 2 - Beginning API (GetPixel and SetPixel)](2008/06/18/vb-graphics-programming-2)
+  * [VB Graphics Programming: Part 3 - Advanced API (GetBitmapBits/SetBitmapBits and GetDIBits/StretchDIBits)](2008/06/18/vb-graphics-programming-3)
+  * [VB Graphics Programming: Part 4 - Advanced Optimizations](2008/06/18/vb-graphics-programming-4)
 
 ## Why I use Classic VB for my code samples
 

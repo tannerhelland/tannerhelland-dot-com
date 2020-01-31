@@ -126,5 +126,5 @@ To be totally honest, I hope that you completely forget that PSet and Point even
 
 Thankfully, there are three more tutorials that will show you better, faster ways to do graphics programming - but at least you now know how to use PSet and Point if the need ever arises.
 
-**[Continue to Part 2: Basic API Pixel Routines](2008/06/17/vb-graphics-programming-2/)**
+**[Continue to Part 2: Basic API Pixel Routines](2008/06/18/vb-graphics-programming-2/)**
 
