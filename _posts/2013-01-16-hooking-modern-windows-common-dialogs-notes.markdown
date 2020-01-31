@@ -12,6 +12,7 @@ slug: hooking-modern-windows-common-dialogs-notes
 title: 'Hooking modern Windows common dialogs: some notes'
 redirect_from:
  - /4709/hooking-modern-windows-common-dialogs-notes
+ - /4709/hooking-modern-windows-common-dialogs-notes/
 ---
 
 Background: [common dialog hooking is used to append your own controls to a Windows common dialog box.](http://msdn.microsoft.com/en-us/library/ms646951%28VS.85%29.aspx)

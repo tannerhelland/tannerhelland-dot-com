@@ -7,6 +7,7 @@ slug: photodemon-541-live
 title: PhotoDemon 5.4.1 is now live
 redirect_from:
  - /4941/photodemon-541-live
+ - /4941/photodemon-541-live/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

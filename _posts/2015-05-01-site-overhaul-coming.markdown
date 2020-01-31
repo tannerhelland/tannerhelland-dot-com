@@ -6,6 +6,7 @@ slug: site-overhaul-coming
 title: Site overhaul coming - apologies for broken links and other bugs
 redirect_from:
  - /5790/site-overhaul-coming
+ - /5790/site-overhaul-coming/
 ---
 
 [tl;dr](http://en.wikipedia.org/wiki/TL;DR): [Mobilegeddon](http://googlewebmastercentral.blogspot.com/2015/02/finding-more-mobile-friendly-search.html) (who thinks up these names?) has finally provided the kick I need to get this site overhauled.  Apologies in advance for things like messed up formatting and randomly broken links.

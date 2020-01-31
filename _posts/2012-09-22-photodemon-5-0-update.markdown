@@ -7,6 +7,7 @@ slug: photodemon-5-0-update
 title: Announcing PhotoDemon 5.0 - Everything is Faster, Everything is Better
 redirect_from:
  - /4407/photodemon-5-0-update
+ - /4407/photodemon-5-0-update/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

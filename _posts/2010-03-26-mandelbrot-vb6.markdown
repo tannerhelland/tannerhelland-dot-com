@@ -10,6 +10,7 @@ slug: mandelbrot-vb6
 title: Drawing the Mandelbrot Set / Fractal (in VB6)
 redirect_from:
  - /1494/mandelbrot-vb6
+ - /1494/mandelbrot-vb6/
 ---
 
 ![](images/Mandelbrot_VB6-508x600.png)

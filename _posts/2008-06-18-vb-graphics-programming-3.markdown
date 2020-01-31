@@ -7,6 +7,8 @@ title: 'VB Graphics Programming: Part 3 (Advanced API)'
 redirect_from:
   - /42/vb-graphics-programming-3/
   - /vb6/vb-graphics-programming-3/
+  - /42/vb-graphics-programming-3
+  - /vb6/vb-graphics-programming-3
 ---
 
 **Advanced API Pixel Routines**

@@ -7,6 +7,7 @@ slug: grayscale-image-algorithm-vb6
 title: Seven grayscale conversion algorithms (with pseudocode and VB6 source code)
 redirect_from:
  - /3643/grayscale-image-algorithm-vb6
+ - /3643/grayscale-image-algorithm-vb6/
 ---
 
 I have uploaded [a great many image processing demonstrations over the years](code), but today's project - grayscale conversion techniques - is actually the image processing technique that generates the most email queries for me.  I'm glad to finally have a place to send those queries!

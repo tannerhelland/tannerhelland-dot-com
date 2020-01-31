@@ -6,6 +6,7 @@ slug: children-ruin-marriages-for-most
 title: Study Shows Children Ruin Marriage (probably)
 redirect_from:
  - /917/children-ruin-marriages-for-most
+ - /917/children-ruin-marriages-for-most/
 ---
 
 Today's post is a little different from my usual fare, but I think it's something others may find useful.

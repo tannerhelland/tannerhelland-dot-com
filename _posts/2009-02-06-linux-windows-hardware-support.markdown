@@ -53,6 +53,54 @@ redirect_from:
  - /ubuntu-linux/ubuntu-vs-vista-xp
  - /ubuntu-linux/upgrade-windows-xp
  - /ubuntu-linux/why-i-use-and-promote-ubuntu-linux
+ - /2008/10/so-you-want-to-upgrade-from-windows-xp/
+ - /2008/10/ubuntu-804-linux-vs-windows-vista-a-comparison-for-the-xp-upgrader/
+ - /category/commentary/ubuntu-linux/feed/
+ - /commentary/ubuntu-linux/10-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/day-1-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/day-10-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/day-2-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/day-3-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/day-4-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/day-5-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/day-6-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/day-7-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/day-8-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/day-9-ubuntu-10-10-features/
+ - /commentary/ubuntu-linux/dear-ubuntu-windows-7-is-great/
+ - /commentary/ubuntu-linux/linux-day-1/
+ - /commentary/ubuntu-linux/linux-toyota-lessons/
+ - /commentary/ubuntu-linux/rip-windows-xp/
+ - /commentary/ubuntu-linux/rip-windows-xp-2/
+ - /commentary/ubuntu-linux/ubuntu-1004/
+ - /commentary/ubuntu-linux/ubuntu-8-04/
+ - /commentary/ubuntu-linux/ubuntu-one-year-late/
+ - /commentary/ubuntu-linux/ubuntu-report-card-2009/
+ - /commentary/ubuntu-linux/ubuntu-vs-vista-xp/
+ - /commentary/ubuntu-linux/upgrade-windows-xp/
+ - /commentary/ubuntu-linux/why-i-use-and-promote-ubuntu-linux/
+ - /ubuntu-linux/10-ubuntu-10-10-features/
+ - /ubuntu-linux/day-1-ubuntu-10-10-features/
+ - /ubuntu-linux/day-10-ubuntu-10-10-features/
+ - /ubuntu-linux/day-2-ubuntu-10-10-features/
+ - /ubuntu-linux/day-3-ubuntu-10-10-features/
+ - /ubuntu-linux/day-4-ubuntu-10-10-features/
+ - /ubuntu-linux/day-5-ubuntu-10-10-features/
+ - /ubuntu-linux/day-6-ubuntu-10-10-features/
+ - /ubuntu-linux/day-7-ubuntu-10-10-features/
+ - /ubuntu-linux/day-8-ubuntu-10-10-features/
+ - /ubuntu-linux/day-9-ubuntu-10-10-features/
+ - /ubuntu-linux/linux-day-1/
+ - /ubuntu-linux/rip-windows-xp/
+ - /ubuntu-linux/rip-windows-xp-2/
+ - /ubuntu-linux/ubuntu-1004/
+ - /ubuntu-linux/ubuntu-8-04/
+ - /ubuntu-linux/ubuntu-install-guide/
+ - /ubuntu-linux/ubuntu-one-year-late/
+ - /ubuntu-linux/ubuntu-report-card-2009/
+ - /ubuntu-linux/ubuntu-vs-vista-xp/
+ - /ubuntu-linux/upgrade-windows-xp/
+ - /ubuntu-linux/why-i-use-and-promote-ubuntu-linux/
 ---
 
 If you've heard of Linux, you've probably also heard the following comment (or something like it):

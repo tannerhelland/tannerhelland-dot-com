@@ -9,6 +9,7 @@ slug: stained-glass-image-effect
 title: Rendering images from random lines (and shapes)
 redirect_from:
  - /2306/stained-glass-image-effect
+ - /2306/stained-glass-image-effect/
 ---
 
 I wanted to title this article "_a novel method for matrix randomization using polygons and custom differential post-processing blending_"... but that was a bit long, even for me.

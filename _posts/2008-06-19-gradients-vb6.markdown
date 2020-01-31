@@ -7,6 +7,8 @@ title: 'Smooth linear color gradients'
 redirect_from:
   - /47/gradients-vb6
   - /vb6/gradients-vb6
+  - /47/gradients-vb6/
+  - /vb6/gradients-vb6/
 ---
 
 This program demonstrates how to create a smooth color gradient between any two colors. 

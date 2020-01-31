@@ -8,6 +8,8 @@ title: Image Histograms – Part 1
 redirect_from:
  - /747/vb6-image-histograms-1
  - /vb6/vb6-image-histograms-1
+ - /747/vb6-image-histograms-1/
+ - /vb6/vb6-image-histograms-1/
 ---
 
 _This is the 1st half of a two-part project.  Part 2 is available [here](2009/03/25/image-histograms-2)._

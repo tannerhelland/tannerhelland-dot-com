@@ -6,6 +6,7 @@ slug: photography-mandriva-20102
 title: Look for my photography in Mandriva 2010.2
 redirect_from:
  - /2955/photography-mandriva-20102
+ - /2955/photography-mandriva-20102/
 ---
 
 Thank you to the Mandriva team for naming one of my photos a winner in their "community background contest."  For those interested, the following photo will be available as a background in the mandriva-theme-extra package of Mandriva 2010.2:

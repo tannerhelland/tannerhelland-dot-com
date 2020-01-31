@@ -7,6 +7,7 @@ slug: official-photodemon-language-support
 title: 'Coming to PhotoDemon 5.4: Language Support.  Translators welcome!'
 redirect_from:
  - /4793/official-photodemon-language-support
+ - /4793/official-photodemon-language-support/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

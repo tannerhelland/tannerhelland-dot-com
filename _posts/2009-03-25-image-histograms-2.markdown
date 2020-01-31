@@ -7,6 +7,7 @@ slug: image-histograms-2
 title: Image Histograms - Part 2 – Stretching and Equalizing
 redirect_from: 
  - /810/vb6-image-histograms-2
+ - /810/vb6-image-histograms-2/
 ---
 
 _This is the 2nd half of a two-part project.  Part 1 is available [here](2009/03/21/image-histograms-1)._

@@ -7,6 +7,7 @@ slug: game-physics-demo
 title: Basic Game Physics (Velocity and Acceleration)
 redirect_from:
  - /499/game-physics-demo
+ - /499/game-physics-demo/
 ---
 
 Many (many) years ago, I was invited to teach a guest lecture on game development to a high school programming class.  This small project was used as part of the class.

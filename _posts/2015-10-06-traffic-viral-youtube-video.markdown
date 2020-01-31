@@ -6,6 +6,7 @@ slug: traffic-viral-youtube-video
 title: How much traffic do you get from a viral YouTube video?
 redirect_from:
  - /5895/traffic-viral-youtube-video/
+ - /5895/traffic-viral-youtube-video
 ---
 
 Last month, the team from [Realm Pictures](http://realm-pictures.co.uk/) built an incredibly clever ["interactive real-life first-person shooter"](https://www.youtube.com/watch?v=p747PrxmZJ4) that strangers could play over Chatroulette, Omegle, and Skype.  In the [behind-the-scenes video](https://www.youtube.com/watch?v=FpfXmcL7Ox0), they talk about how they pulled off the feat, and it's an impressive example of unifying a bunch of different technology to accomplish something novel.

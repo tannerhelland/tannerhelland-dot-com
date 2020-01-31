@@ -11,6 +11,7 @@ slug: generating-emboss-engrave-relief-filters-vb6
 title: 'Emboss / Engrave / Relief image filters'
 redirect_from:
  - /2225/generating-emboss-engrave-relief-filters-vb6
+ - /2225/generating-emboss-engrave-relief-filters-vb6/
 ---
 
 ![](images/bayonetta_emboss.jpg)

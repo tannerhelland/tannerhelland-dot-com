@@ -7,6 +7,7 @@ slug: photodemon-60-live
 title: PhotoDemon 6.0 is now live at photodemon.org
 redirect_from: 
  - /5203/photodemon-60-live
+ - /5203/photodemon-60-live/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

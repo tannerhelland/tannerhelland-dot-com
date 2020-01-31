@@ -6,15 +6,25 @@ slug: code
 title: Code
 redirect_from:
   - /programming-directory/
-  - /category/vb6
-  - /category/vb6/page/2
-  - /category/vb6/page/3
-  - /photodemon-contact
-  - /photodemon
-  - /category/vb6/feed
-  - /category/vb6/graphics-tutorial
-  - /category/vb6/graphics-vb6/page/2
-  - /category/vb6/graphics-vb6
+  - /category/vb6/
+  - /category/vb6/page/2/
+  - /category/vb6/page/3/
+  - /photodemon-contact/
+  - /photodemon/
+  - /category/vb6/feed/
+  - /category/vb6/graphics-tutorial/
+  - /category/vb6/graphics-vb6/page/2/
+  - /category/vb6/graphics-vb6/
+  - /programming-directory/
+  - /category/vb6/
+  - /category/vb6/page/2/
+  - /category/vb6/page/3/
+  - /photodemon-contact/
+  - /photodemon/
+  - /category/vb6/feed/
+  - /category/vb6/graphics-tutorial/
+  - /category/vb6/graphics-vb6/page/2/
+  - /category/vb6/graphics-vb6/
 ---
 
 [All code on this site](https://github.com/tannerhelland/vb6-code) is provided free of charge, under [a permissive BSD license](https://github.com/tannerhelland/vb6-code/blob/master/LICENSE.md).  If you find the code helpful, please consider a small donation to help me support my family.  Even $1.00 helps.  Thank you!

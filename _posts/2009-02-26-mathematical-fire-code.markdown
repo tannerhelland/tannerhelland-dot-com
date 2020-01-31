@@ -8,6 +8,8 @@ title: Rendering fire programmatically
 redirect_from:
  - /640/mathematical-fire-code-2
  - /535/mathematical-fire-code
+ - /640/mathematical-fire-code-2/
+ - /535/mathematical-fire-code/
 ---
 
 ![A demonstration of mathematically-generated fire](images/fire_program.jpg)

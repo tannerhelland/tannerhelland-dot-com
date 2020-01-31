@@ -7,6 +7,7 @@ slug: tile-based-editor
 title: Building a simple 2D tile-based map editor
 redirect_from:
  - /328/tile-based-editor
+ - /328/tile-based-editor/
 ---
 
 Who doesn't love a classic tile-based game?  I've seen many beginning programmers try to tackle a project like this, and unfortunately, they tend to use massive collections of image or picture controls to do it.  This is hugely overkill, as it's much faster to use a single surface and simply track tile indices yourself.

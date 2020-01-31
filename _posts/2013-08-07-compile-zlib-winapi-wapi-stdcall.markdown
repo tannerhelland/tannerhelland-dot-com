@@ -10,6 +10,7 @@ slug: compile-zlib-winapi-wapi-stdcall
 title: How to compile zLib 1.2.8 (WINAPI / WAPI / STDCALL version)
 redirect_from:
  - /5076/compile-zlib-winapi-wapi-stdcall
+ - /5076/compile-zlib-winapi-wapi-stdcall/
 ---
 
 This is not a full-blown article - just a quick HOWTO for people who require the latest version of zLib and want to use it from a language (like classic VB) that requires a standard WinAPI interface.

@@ -7,6 +7,7 @@ slug: photodemon-image-processor-vb6
 title: 'Announcing PhotoDemon: A Fast, Free, Open-Source Photo Editor and Image Processor'
 redirect_from:
  - /4183/photodemon-image-processor-vb6
+ - /4183/photodemon-image-processor-vb6/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

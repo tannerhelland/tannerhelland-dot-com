@@ -13,6 +13,7 @@ slug: convert-temperature-rgb-algorithm-code
 title: 'How to Convert Temperature (K) to RGB: Algorithm and Sample Code'
 redirect_from:
  - /4435/convert-temperature-rgb-algorithm-code
+ - /4435/convert-temperature-rgb-algorithm-code/
 ---
 
 ## Converting temperature (Kelvin) to RGB: an overview

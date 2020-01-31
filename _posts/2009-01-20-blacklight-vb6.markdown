@@ -7,6 +7,7 @@ slug: blacklight-vb6
 title: Real-time Blacklight Effect
 redirect_from:
  - /381/blacklight-vb6
+ - /381/blacklight-vb6/
 ---
 
 Here's an example of a simulated blacklight effect that looks great on any image with people in it.

@@ -6,6 +6,8 @@ slug: image-contrast-vb6
 title: 'Real-time image contrast'
 redirect_from:
   - /45/image-contrast-vb6
+  - /vb6/gradients-vb6
+  - /45/image-contrast-vb6/
   - /vb6/gradients-vb6/
 ---
 

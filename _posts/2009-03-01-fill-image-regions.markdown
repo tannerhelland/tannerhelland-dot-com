@@ -7,6 +7,7 @@ slug: fill-image-regions
 title: Code for Filling Image Regions 
 redirect_from:
  - /649/fill-image-regions
+ - /649/fill-image-regions/
 ---
 
 This little program demonstrates two basic graphics programming principles:

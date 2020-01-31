@@ -7,6 +7,7 @@ slug: simple-algorithms-adjusting-image-temperature-tint
 title: Simple algorithms for adjusting image temperature and tint
 redirect_from:
  - /5675/simple-algorithms-adjusting-image-temperature-tint
+ - /5675/simple-algorithms-adjusting-image-temperature-tint/
 ---
 
 I've already talked at length about [converting a temperature (in Kelvin) to an RGB triplet](4435/convert-temperature-rgb-algorithm-code/).  But what if you simply want to adjust an image's temperature, without caring about the specifics of it?

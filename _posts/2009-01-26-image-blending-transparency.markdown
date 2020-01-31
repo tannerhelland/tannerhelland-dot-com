@@ -6,6 +6,7 @@ slug: image-blending-transparency
 title: Manual Image Blending/Transparency
 redirect_from:
  - /490/image-blending-transparency
+ - /490/image-blending-transparency/
 ---
 
 Real-time transparency has become so commonplace in modern games and PC applications that it's almost taken for granted.  However, the specific formula that performs this now-ubiquitous effect is worth understanding.

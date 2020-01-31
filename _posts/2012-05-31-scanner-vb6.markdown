@@ -10,6 +10,7 @@ slug: scanner-vb6
 title: How to use a scanner (or TWAIN-compatible digital camera) in VB6
 redirect_from:
  - /4043/scanner-vb6
+ - /4043/scanner-vb6/
 ---
 
 Today's project demonstrates how to implement full scanner support from within a VB6 project.  As a bonus, it also provides support for TWAIN-compatible digital cameras.

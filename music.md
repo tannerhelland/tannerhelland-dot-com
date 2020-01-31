@@ -54,45 +54,45 @@ redirect_from:
  - /8/now-or-never/
  - /801/song-defiance-remixed/
  - /9/clowns/
- - /912/complete-tannerhelland-music-collection
+ - /912/complete-tannerhelland-music-collection/
  - /music-directory/
- - /music/a-memory-away
- - /music/aeris-theme-piano
- - /music/bloody-tears-castlevania-ii-remix
- - /music/clowns
- - /music/complete-tannerhelland-music-collection
- - /music/crossroads
- - /music/dark-knight
- - /music/deeper
- - /music/deserve-to-be-loved
- - /music/destiny
- - /music/dragonfyres-white-knights-remix
- - /music/faith-love-remix
- - /music/fate-clints-theme
- - /music/find-you
- - /music/from-here
- - /music/halls-of-despair
- - /music/hidden-tears
- - /music/journey-krocs-theme
- - /music/leaving-millie
- - /music/lost-islands
- - /music/march-of-the-zargansk
- - /music/nevermore-game-over
- - /music/now-or-never
- - /music/ominosity
- - /music/purgatory-mansion
- - /music/reign-of-anarchy
- - /music/song-faith
- - /music/song-haunting
- - /music/song-home
- - /music/song-remember
- - /music/song-retribution
- - /music/song-unknown
- - /music/surreptitious
- - /music/tiberian-national-anthem
- - /music/ukranian-bell-carol
- - /music/wild-waters-theme
- - /site-news/purgatory-mansion
+ - /music/a-memory-away/
+ - /music/aeris-theme-piano/
+ - /music/bloody-tears-castlevania-ii-remix/
+ - /music/clowns/
+ - /music/complete-tannerhelland-music-collection/
+ - /music/crossroads/
+ - /music/dark-knight/
+ - /music/deeper/
+ - /music/deserve-to-be-loved/
+ - /music/destiny/
+ - /music/dragonfyres-white-knights-remix/
+ - /music/faith-love-remix/
+ - /music/fate-clints-theme/
+ - /music/find-you/
+ - /music/from-here/
+ - /music/halls-of-despair/
+ - /music/hidden-tears/
+ - /music/journey-krocs-theme/
+ - /music/leaving-millie/
+ - /music/lost-islands/
+ - /music/march-of-the-zargansk/
+ - /music/nevermore-game-over/
+ - /music/now-or-never/
+ - /music/ominosity/
+ - /music/purgatory-mansion/
+ - /music/reign-of-anarchy/
+ - /music/song-faith/
+ - /music/song-haunting/
+ - /music/song-home/
+ - /music/song-remember/
+ - /music/song-retribution/
+ - /music/song-unknown/
+ - /music/surreptitious/
+ - /music/tiberian-national-anthem/
+ - /music/ukranian-bell-carol/
+ - /music/wild-waters-theme/
+ - /site-news/purgatory-mansion/
 ---
 
 ## Free original music for games and film

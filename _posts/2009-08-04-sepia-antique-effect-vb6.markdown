@@ -10,6 +10,8 @@ title: Sepia / “Antique” Image Effect
 redirect_from:
  - /1138/sepia-antique-effect-vb6
  - /vb6/sepia-antique-effect-vb6
+ - /1138/sepia-antique-effect-vb6/
+ - /vb6/sepia-antique-effect-vb6/
 ---
 
 !["Antiquified" version of a BBT promo photo](images/Sepia_Big_Bang_Theory.jpg)

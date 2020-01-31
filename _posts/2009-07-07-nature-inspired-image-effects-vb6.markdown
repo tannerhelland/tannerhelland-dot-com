@@ -10,6 +10,7 @@ slug: nature-inspired-image-effects-vb6
 title: Nature-Inspired Image Filters
 redirect_from:
  - /1118/nature-inspired-image-effects-vb6
+ - /1118/nature-inspired-image-effects-vb6/
 ---
 
 Today's article brings a collection of random image effects that can be quickly (and programmatically) generated.  In an attempt to give the project some coherency, I've named each effect after something "nature-themed" to help distinguish them.

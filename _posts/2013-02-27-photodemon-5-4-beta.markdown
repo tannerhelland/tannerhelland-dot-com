@@ -7,6 +7,7 @@ slug: photodemon-5-4-beta
 title: 'PhotoDemon 5.4 Beta Now Available '
 redirect_from: 
  - /4738/photodemon-5-4-beta
+ - /4738/photodemon-5-4-beta/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

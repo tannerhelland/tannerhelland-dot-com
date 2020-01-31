@@ -11,6 +11,7 @@ slug: colorize-image-vb6
 title: How to Colorize an Image (in VB6)
 redirect_from:
  - /3552/colorize-image-vb6
+ - /3552/colorize-image-vb6/
 ---
 
 "Colorization" in image processing can refer to one of several things.  Most commonly, to _colorize_ an image is to take an image without color (like a black and white photograph) and artificially apply color to it.  One example of this is the old [Three Stooges](http://en.wikipedia.org/wiki/Three_Stooges) movies which were originally shot in black-and-white, but [re-released several years ago in color](http://en.wikipedia.org/wiki/Film_colorization).  Colorization of an entire movie is expensive and time-consuming, and a lot of human intervention is required to make things look right.

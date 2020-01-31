@@ -7,6 +7,8 @@ title: 'VB Graphics Programming: Part 4 (Optimizations Checklist)'
 redirect_from:
   - /43/vb-graphics-programming-4/
   - /vb6/vb-graphics-programming-4/
+  - /43/vb-graphics-programming-4
+  - /vb6/vb-graphics-programming-4
 ---
 
 This last section of my graphics programming tutorials takes a different approach from the previous three sections.  Instead of discussing specific graphics routines, I'm going to give you my "Top 10 List of Graphics Code Optimizations."  This checklist of optimization techniques will provide a simple, straightforward mechanism for speeding up your graphics application.  We'll start with the easiest ways to speed up your code and end with the most dramatic (but effective) ways.  My hope is that you can take slow graphics-related code, adjust it according to this checklist, and end up with a much faster version with minimal impact to code readability or complexity.

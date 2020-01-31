@@ -7,6 +7,8 @@ title: 'VB Graphics Programming: Part 1 (Pure VB)'
 redirect_from:
   - /40/vb-graphics-programming-1/
   - /vb6/vb-graphics-programming-1/
+  - /40/vb-graphics-programming-1
+  - /vb6/vb-graphics-programming-1
 ---
 
 **Pure VB Pixel Routines**

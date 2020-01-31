@@ -7,6 +7,7 @@ slug: custom-image-filters-vb6
 title: Custom Image Convolution Filters
 redirect_from:
  - /982/custom-image-filters-vb6
+ - /982/custom-image-filters-vb6/
 ---
 
 The ability to create custom filters is a mainstay of any quality graphics application.  A robust matrix-based filter engine can generate hundreds of unique effects by simply adjusting the matrices that get passed into the engine.

@@ -7,6 +7,7 @@ slug: image-curves-vb6
 title: Real-time Image Curves (using cubic splines)
 redirect_from:
  - /336/image-curves-vb6
+ - /336/image-curves-vb6/
 ---
 
 Adjusting an image's colors using a "curves" dialog should be familiar to any PhotoShop users out there.  Curves is similar in theory to both "[level adjustments](2008/12/24/image-levels-vb6)" and standard gamma correction, but it provides a much more powerful interface for adjusting luminance and color balance.

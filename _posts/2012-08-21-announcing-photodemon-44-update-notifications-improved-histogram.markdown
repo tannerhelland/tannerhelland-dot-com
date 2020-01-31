@@ -8,6 +8,7 @@ title: Announcing PhotoDemon 4.4 - Now With Update Notifications, Improved Histo
   and More
 redirect_from:
  - /4310/announcing-photodemon-44-update-notifications-improved-histogram
+ - /4310/announcing-photodemon-44-update-notifications-improved-histogram/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

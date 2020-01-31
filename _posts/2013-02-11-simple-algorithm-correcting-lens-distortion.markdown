@@ -6,6 +6,7 @@ slug: simple-algorithm-correcting-lens-distortion
 title: A simple algorithm for correcting lens distortion
 redirect_from:
  - /4743/simple-algorithm-correcting-lens-distortion
+ - /4743/simple-algorithm-correcting-lens-distortion/
 ---
 
 One of the new features in the development branch of [my open-source photo editor](https://photodemon.org) is a simple tool for correcting lens distortion.  I thought I'd share the algorithm I use, in case others find it useful.  (There are very few useful examples of lens correction on the Internet - most articles simply refer to existing software packages, rather than explaining how the software works.)

@@ -7,6 +7,7 @@ slug: photodemon-60-preview
 title: PhotoDemon 6.0 preview and progress report
 redirect_from:
  - /4996/photodemon-60-preview
+ - /4996/photodemon-60-preview/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

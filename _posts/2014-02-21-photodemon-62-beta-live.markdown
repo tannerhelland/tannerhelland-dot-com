@@ -8,6 +8,7 @@ slug: photodemon-62-beta-live
 title: PhotoDemon 6.2 beta live - testers welcome!
 redirect_from:
  - /photodemon-62-beta-live
+ - /photodemon-62-beta-live/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

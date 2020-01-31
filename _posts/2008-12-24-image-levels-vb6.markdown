@@ -7,6 +7,7 @@ slug: image-levels-vb6
 title: Real-time Image Levels (input/output/midtone) 
 redirect_from:
  - /341/image-levels-vb6
+ - /341/image-levels-vb6/
 ---
 
 When this code was first written, it was (as far as I knew) the first non-GPL open-source implementation of a real-time image level adjustment.  There have since been many other implementations (including a much more powerful version in my own [PhotoDemon photo editor](https://photodemon.org)), but I believe this simple version still demonstrates a nice, simple, Photoshop-equivalent approach to the problem.

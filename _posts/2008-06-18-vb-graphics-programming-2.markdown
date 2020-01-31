@@ -7,6 +7,8 @@ title: 'VB Graphics Programming: Part 2 (Beginning API)'
 redirect_from:
   - /41/vb-graphics-programming-2/
   - /vb6/vb-graphics-programming-2/
+  - /41/vb-graphics-programming-2
+  - /vb6/vb-graphics-programming-2
 ---
 
 **Basic API Pixel Routines**

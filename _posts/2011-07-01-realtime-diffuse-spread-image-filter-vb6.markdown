@@ -11,6 +11,7 @@ slug: realtime-diffuse-spread-image-filter-vb6
 title: Real-time Diffuse (Spread) Image Filter 
 redirect_from:
  - /3601/realtime-diffuse-spread-image-filter-vb6
+ - /3601/realtime-diffuse-spread-image-filter-vb6/
 ---
 
 ![One brand of camera diffusion lenses](images/camera_diffuse_filters.jpg)

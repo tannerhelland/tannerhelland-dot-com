@@ -7,6 +7,7 @@ slug: photodemon-5-4-german-french-dutch
 title: PhotoDemon 5.4 is live - now with German, French, and Dutch language support
 redirect_from:
  - /4893/photodemon-5-4-german-french-dutch
+ - /4893/photodemon-5-4-german-french-dutch/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

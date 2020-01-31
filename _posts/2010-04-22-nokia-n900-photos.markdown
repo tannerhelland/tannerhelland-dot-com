@@ -12,6 +12,9 @@ redirect_from:
  - /3933/nokia-n900-photography-spring-2012-edition
  - /2185/nokia-n900-photography
  - /1594/nokia-n900-photos
+ - /3933/nokia-n900-photography-spring-2012-edition/
+ - /2185/nokia-n900-photography/
+ - /1594/nokia-n900-photos/
 ---
 
 Now that Utah weather is FINALLY improving, my wife and I were finally able to take a road trip out to [Red Butte Garden](http://www.redbuttegarden.org/).  All photos here were taken with my [Nokia N900](https://en.wikipedia.org/wiki/Nokia_N900).  The phone has a 5mp sensor, but these were all taken at the 3.5mp setting (widescreen).

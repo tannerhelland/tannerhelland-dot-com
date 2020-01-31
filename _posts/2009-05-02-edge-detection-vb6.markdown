@@ -7,6 +7,7 @@ slug: edge-detection-vb6
 title: Basic Image Edge Detection
 redirect_from:
  - /952/edge-detection-vb6
+ - /952/edge-detection-vb6/
 ---
 
 Edge detection (also called "boundary detection") is a fundamental problem in image processing.  The ability to accurately detect visible "edges" in an image is what makes possible everything from OCR to silly Instagram effects.  In this project, I've implemented six well-known edge detection algorithms.

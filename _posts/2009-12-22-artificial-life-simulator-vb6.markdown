@@ -14,6 +14,8 @@ title: Artificial Life Simulator (in VB6)
 redirect_from:
   - /1399/artificial-life-simulator-vb6/
   - /vb6/artificial-life-simulator-vb6/
+  - /1399/artificial-life-simulator-vb6
+  - /vb6/artificial-life-simulator-vb6
 ---
 
 ![This is what the Artificial Life Simulator looks like in action](images/Artificial_Life-600x467.png)

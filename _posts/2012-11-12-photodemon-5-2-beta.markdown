@@ -7,6 +7,7 @@ slug: photodemon-5-2-beta
 title: Announcing PhotoDemon 5.2 Beta 1 - Testers Needed!
 redirect_from:
  - /4598/photodemon-5-2-beta
+ - /4598/photodemon-5-2-beta/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

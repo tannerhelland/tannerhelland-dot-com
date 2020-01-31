@@ -7,6 +7,7 @@ slug: photodemon-5-2-update
 title: Announcing PhotoDemon 5.2 - Selections, HSL, Rotation, HDR, and More
 redirect_from:
  - /4616/photodemon-5-2-update
+ - /4616/photodemon-5-2-update/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

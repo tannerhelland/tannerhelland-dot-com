@@ -7,6 +7,7 @@ slug: dithering-eleven-algorithms-source-code
 title: 'Image Dithering: Eleven Algorithms and Source Code'
 redirect_from:
  - /4660/dithering-eleven-algorithms-source-code
+ - /4660/dithering-eleven-algorithms-source-code/
 ---
 
 ## Dithering: An Overview

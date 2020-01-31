@@ -11,6 +11,7 @@ slug: affirmations-skepticism
 title: Affirmations of the New Skepticism
 redirect_from:
  - /1131/affirmations-skepticism
+ - /1131/affirmations-skepticism/
 ---
 
 I have been meaning to post this for some time, but better late than never.

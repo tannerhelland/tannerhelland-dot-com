@@ -8,6 +8,7 @@ slug: color-shifting
 title: Color Shifting (a cheap way to triple graphics variety)
 redirect_from:
  - /474/color-shifting
+ - /474/color-shifting/
 ---
 
 Color shifting is a very fast, very simple effect that can greatly simplify the work of game artists.  Here's a demonstration (using a classic StarCraft Siege Tank):

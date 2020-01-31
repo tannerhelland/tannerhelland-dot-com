@@ -10,6 +10,7 @@ slug: support-linux-stop-exclusive-software
 title: Support Linux by Not Writing Linux-Only Software
 redirect_from:
  - /3772/support-linux-stop-exclusive-software
+ - /3772/support-linux-stop-exclusive-software/
 ---
 
 [Phoronix ran a story today](http://www.phoronix.com/scan.php?page=news_item&px=MTAxMTU) about the keynote address at this year's [Fedora India Conference](http://fedoraproject.org/wiki/FUDCon:India_2011).  The speech can be viewed in its entirety [here](http://urtalk.kpoint.in/kapsule/gcc-076d796f-9740-4628-8022-3e8811cfa366#tab_Bookmarks), but one quote in particular is drawing attention:

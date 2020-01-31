@@ -11,6 +11,7 @@ title: How to Access Science and Medical Research without Paying an Arm and a Le
   for It
 redirect_from:
  - /3705/legally-access-medical-research-free
+ - /3705/legally-access-medical-research-free/
 ---
 
 [In past articles](917/children-ruin-marriages-for-most/), I've mentioned that I spend much of my career poring over scientific and medical research.  This is equally parts invigorating and frustrating.  On the one hand, the Internet makes it possible to track down just about any research paper imaginable, whether it's a paper from the turn of the century or one in pre-publication stages.

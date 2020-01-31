@@ -7,6 +7,8 @@ title: How to capture the screen in VB6
 redirect_from:
   - /44/screen-capture-vb6
   - /vb6/screen-capture-vb6
+  - /44/screen-capture-vb6/
+  - /vb6/screen-capture-vb6/
 ---
 
 There are multiple ways to capture the screen in VB6. I recommend the following method for several reasons:

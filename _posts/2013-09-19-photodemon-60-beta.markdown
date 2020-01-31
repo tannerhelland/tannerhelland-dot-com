@@ -7,6 +7,7 @@ slug: photodemon-60-beta
 title: PhotoDemon 6.0 beta is live
 redirect_from:
  - /5106/photodemon-60-beta
+ - /5106/photodemon-60-beta/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

@@ -7,6 +7,7 @@ slug: performance-photodemon-gimp-paintnet
 title: 'Blur Filter performance: PhotoDemon vs GIMP vs Paint.NET'
 redirect_from:
  - /5109/performance-photodemon-gimp-paintnet
+ - /5109/performance-photodemon-gimp-paintnet/
 ---
 
 **Note: this is an old article!  [PhotoDemon now has its own website at photodemon.org](https://photodemon.org).**

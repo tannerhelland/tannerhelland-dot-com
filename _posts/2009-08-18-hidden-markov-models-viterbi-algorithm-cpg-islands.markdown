@@ -12,6 +12,8 @@ title: Hidden Markov Models, the Viterbi Algorithm, and CpG Islands
 redirect_from:
   - /1187/hidden-markov-models-viterbi-algorithm-cpg-islands-in-vb6
   - /vb6/hidden-markov-models-viterbi-algorithm-cpg-islands-in-vb6
+  - /1187/hidden-markov-models-viterbi-algorithm-cpg-islands-in-vb6/
+  - /vb6/hidden-markov-models-viterbi-algorithm-cpg-islands-in-vb6/
 ---
 
 ![images/3D-SIM-4_Anaphase_3_color.jpg](images/3D-SIM-4_Anaphase_3_color.jpg)

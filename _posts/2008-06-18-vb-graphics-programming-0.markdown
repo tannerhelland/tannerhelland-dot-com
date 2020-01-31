@@ -7,6 +7,8 @@ title: 'VB Graphics Programming: An Introduction'
 redirect_from:
   - /39/vb-graphics-programming-0/
   - /vb6/vb-graphics-programming-0/
+  - /39/vb-graphics-programming-0
+  - /vb6/vb-graphics-programming-0
 ---
 
 To any VB 6.0 users still out there:
