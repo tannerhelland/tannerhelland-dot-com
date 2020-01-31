@@ -9,6 +9,7 @@ redirect_from:
   - /vb6/vb-graphics-programming-1/
   - /40/vb-graphics-programming-1
   - /vb6/vb-graphics-programming-1
+  - /2008/06/18/vb-graphics-programming-1/
 ---
 
 **Pure VB Pixel Routines**

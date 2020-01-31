@@ -9,6 +9,7 @@ redirect_from:
   - /vb6/vb-graphics-programming-2/
   - /41/vb-graphics-programming-2
   - /vb6/vb-graphics-programming-2
+  - /2008/06/18/vb-graphics-programming-2/
 ---
 
 **Basic API Pixel Routines**

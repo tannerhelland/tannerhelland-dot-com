@@ -9,6 +9,7 @@ redirect_from:
   - /vb6/vb-graphics-programming-0/
   - /39/vb-graphics-programming-0
   - /vb6/vb-graphics-programming-0
+  - /2008/06/18/vb-graphics-programming-0/
 ---
 
 To any VB 6.0 users still out there:
