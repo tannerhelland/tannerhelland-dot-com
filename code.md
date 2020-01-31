@@ -47,8 +47,8 @@ All source code for the following projects is hosted in [a single GitHub reposit
 
 ## Bioinformatics
 
-  * [Hidden Markov Models, the Viterbi Algorithm, and CpG Islands](2009/08/17/hidden-markov-models-viterbi-algorithm-cpg-islands)
-  * [Evolution and Artificial Life Simulators](2009/12/21/artificial-life-simulator-vb6)
+  * [Hidden Markov Models, the Viterbi Algorithm, and CpG Islands](2009/08/17/hidden-markov-models-viterbi-algorithm-cpg-islands/)
+  * [Evolution and Artificial Life Simulators](2009/12/21/artificial-life-simulator-vb6/)
 
 ## Games
 
@@ -74,12 +74,12 @@ All source code for the following projects is hosted in [a single GitHub reposit
   * [Image Histograms Part 2 (stretching and equalizing)](810/vb6-image-histograms-2/)
   * [How to build a "Curves" dialog](336/image-curves-vb6/)
   * [How to build a "Levels" dialog (input / output / midtone)](341/image-levels-vb6/)
-  * [Real-time image contrast](2008/06/19/image-contrast-vb6)
+  * [Real-time image contrast](2008/06/19/image-contrast-vb6/)
 
 **Basic Image Processing**
     
   * [Filling contiguous image regions (via ExtFloodFill)](649/fill-image-regions/)
-  * [Screen capturing via the Windows API](2008/06/19/screen-capture-vb6)
+  * [Screen capturing via the Windows API](2008/06/19/screen-capture-vb6/)
   * [Smooth color gradients (linear, real-time)](47/gradients-vb6/)
 
 **Advanced Image Processing (Including Filters and FX)**
@@ -103,11 +103,11 @@ All source code for the following projects is hosted in [a single GitHub reposit
 
 ## Tutorials
     
-  * [VB Graphics Programming: An Introduction](2008/06/17/vb-graphics-programming-0)
-  * [VB Graphics Programming: Part 1 - Pure VB (PSet and Point)](2008/06/17/vb-graphics-programming-1)
-  * [VB Graphics Programming: Part 2 - Beginning API (GetPixel and SetPixel)](2008/06/17/vb-graphics-programming-2)
-  * [VB Graphics Programming: Part 3 - Advanced API (GetBitmapBits/SetBitmapBits and GetDIBits/StretchDIBits)](2008/06/17/vb-graphics-programming-3)
-  * [VB Graphics Programming: Part 4 - Advanced Optimizations](2008/06/17/vb-graphics-programming-4)
+  * [VB Graphics Programming: An Introduction](2008/06/17/vb-graphics-programming-0/)
+  * [VB Graphics Programming: Part 1 - Pure VB (PSet and Point)](2008/06/17/vb-graphics-programming-1/)
+  * [VB Graphics Programming: Part 2 - Beginning API (GetPixel and SetPixel)](2008/06/17/vb-graphics-programming-2/)
+  * [VB Graphics Programming: Part 3 - Advanced API (GetBitmapBits/SetBitmapBits and GetDIBits/StretchDIBits)](2008/06/17/vb-graphics-programming-3/)
+  * [VB Graphics Programming: Part 4 - Advanced Optimizations](2008/06/17/vb-graphics-programming-4/)
 
 ## Why I use Classic VB for my code samples
 
