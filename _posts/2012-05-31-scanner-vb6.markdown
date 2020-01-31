@@ -1,0 +1,90 @@
+---
+author: tanner_h
+date: 2012-05-31 18:15:19+00:00
+excerpt: Today's project demonstrates how to implement full scanner support from within
+  a VB6 project.  As a bonus, it also provides support for TWAIN-compatible digital
+  cameras.  The public-domain EZTW32 library is used, and a full sample project is
+  available for download...
+layout: post
+slug: scanner-vb6
+title: How to use a scanner (or TWAIN-compatible digital camera) in VB6
+redirect_from:
+ - /4043/scanner-vb6
+---
+
+Today's project demonstrates how to implement full scanner support from within a VB6 project.  As a bonus, it also provides support for TWAIN-compatible digital cameras.
+
+**Before we begin**...
+
+Because VB6 does not include a native scanner library, some sort of third-party DLL is required for scanner access.  My preferred choice is [the free, public-domain EZTW32 library](http://eztwain.com/index.htm), which I have happily used for many years.  (The first version of EZTW32 was released in 1994!)  This project uses the most recent version of EZTW32 at the time of this writing: v1.19, updated 2009.02.22.  You can check for a newer version of the library [here](http://eztwain.com/eztwain1.htm).
+
+There are two versions of the EZTW32 library: a free, public-domain library - called "classic" - and a more sophisticated, paid version - called "pro."  This project utilizes only the classic version.  The paid version includes many advanced features, and if you are interested in anything beyond simply capturing images from a scanner, it may be worth a look.  A full description of the "pro" version's feature set is available [here](http://eztwain.com/eztwain4.htm).
+
+While the EZTW32 library provides many ways of interacting with the scanner, this project will focus on the following:
+    
+    Private Declare Function TWAIN_IsAvailable Lib "EZTW32.dll" () As Long
+    Private Declare Function TWAIN_SelectImageSource Lib "EZTW32.dll" (ByVal hwndApp As Long) As Long
+    Private Declare Function TWAIN_AcquireToFilename Lib "EZTW32.dll" (ByVal hwndApp As Long, ByVal sFile As String) As Long
+
+The sample project includes a copy of v1.19 of the EZTW32 library.  If you would like to download a newer version of the library, simply copy the new version of EZTW32.dll into the same directory as the executable file (or .VBP file).  It should work without a problem.
+
+**Bonus tip: how to load DLLs from any location**
+
+Because a 3rd-party library is required to access a scanner in VB6, it is useful to know how to load a DLL from any location.  By default, VB6 will attempt to load a DLL from the computer's system folder.  This is not ideal when developing portable applications (_e.g._ applications that can be run without requiring an installer), because it requires the user to manually copy files into their system folder... and that's bad for a variety of reasons (security, potential for mistakes, etc).  It is possible to load a DLL from other locations using the `regsvr32` command, but I don't like `regsvr32` because it adds additional entries to the user's system registry, and it must be re-run every time the project is moved to a new folder.
+
+So the best solution, in my opinion, is to tell VB to expect the DLL to appear in the same folder as the project itself.  (Alternatively, a /plugins/ sub-directory could be used.)  We do this by adding the following code to the General Declarations section of the project:
+    
+    Private Declare Function LoadLibrary Lib "kernel32" Alias "LoadLibraryA" (ByVal lpLibFileName As String) As Long
+    Private Declare Function FreeLibrary Lib "kernel32" (ByVal hLibModule As Long) As Long
+    Dim hLib as Long
+
+Then, in the Form_Load sub, add this code to determine the project directory and tell VB to load any EZTW32 functions from the DLL in that directory:
+    
+    Dim ProgramPath as String
+    ProgramPath = App.Path
+    If Right(ProgramPath, 1) <> "\" Then ProgramPath = ProgramPath & "\"
+    
+    hLib = LoadLibrary(ProgramPath & "EZTW32.dll")
+
+Finally, add this to the Form_Unload sub to release the DLL when the program terminates:
+    
+    FreeLibrary hLib
+
+The sample project (available below) demonstrates this technique, so feel free to download that instead of copying-and-pasting the code from this page.
+
+**What this project demonstrates**
+
+Because this project is focused on the basics of using a scanner, it demonstrates only the following:
+
+  * How to check if the system offers scanner support (_e.g._ is a scanner driver loaded?)
+  * On systems with multiple scanners, allow the user to select which scanner they want to use
+  * Load the scanner's built-in software and allow the user to preview and scan an image
+  * Send the scanned image to a temporary file, then load that temporary file into a VB picture box
+
+All of the above also applies to TWAIN-compatible digital cameras, which the software treats just like a scanner.
+
+Finally, as mentioned earlier, EZTW32 has a paid "pro" version that offers additional features.  You can learn more about the "pro" version [here](http://eztwain.com/eztwain4.htm).
+
+**Caveats**
+
+As you may have inferred from its title, EZTW32 relies on the [TWAIN protocol](http://en.wikipedia.org/wiki/TWAIN) for accessing a scanner.  [TWAIN](http://en.wikipedia.org/wiki/TWAIN) is one of several ways to interact with a scanner; other common options include [WIA (Windows Image Acquisition)](http://en.wikipedia.org/wiki/Windows_Image_Acquisition) on Windows, and [SANE (Scanner Access Now Easy)](http://en.wikipedia.org/wiki/Scanner_Access_Now_Easy) on Linux.
+
+TWAIN has some advantages and disadvantages compared to WIA and SANE.  One of TWAIN's unique characteristics is that it requires the scanner to provide its own user interface.  The advantage of this approach is that on a given system, TWAIN-compatible programs all launch the same scanner user interface - the interface provided by the scanner itself.  This is good for casual users, because regardless of whether they use this program or Photoshop or GIMP, the scanner interface will always be the exact same.  The downside is that if you want to implement custom scanner features or options, TWAIN makes it difficult.
+
+As an example, my Canon scanner software currently looks like this:
+
+![Canon scanner user interface](images/Scanner_Software-600x406.jpg)
+
+Another advantage of TWAIN is its longevity.  The TWAIN standard has been around since 1992, so pretty much every scanner made in the last 20 years will offer TWAIN drivers.  By comparison, WIA didn't exist until the year 2000, and it wasn't until Windows Vista that most scanners offered WIA support.
+
+One disadvantage of TWAIN is that Windows Vista and Windows 7 give WIA preferential treatment.  If you set up a new scanner using the default Windows Hardware Wizard, it may only load WIA drivers - meaning you'll need to hunt down the install CD that came with your scanner, or download the latest driver bundle from the scanner manufacturer's website.  I discovered this the hard way when testing this program with my Canon all-in-one printer/scanner/fax.  If my program can't find your scanner, download the free GIMP image software from [this link](http://www.gimp.org/downloads/) and use the File -> Create... -> Scanner/Camera... option.  If my program can't find your scanner, and GIMP can't find your scanner, you probably don't have TWAIN drivers installed.  If GIMP works but my program does not, [send me a message](http://www.tannerhelland.com/contact/) and I'll investigate further.
+
+**The sample project**
+
+My sample project is pretty minimalist:
+
+![Scanner project user interface](images/Scanner_Screenshot-600x448.png)
+
+I tried to keep the code as small and simple as possible.  Again, the latest version of the EZTW32 dll (v1.19) is included in the download.  Future versions of the file should be backwards-compatible; simply replace the existing dll with a newer version.
+
+**[Download the source code from GitHub](https://github.com/tannerhelland/vb6-code/tree/master/Scanner-TWAIN)**

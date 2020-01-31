@@ -1,0 +1,25 @@
+theme: minima
+
+title: "tannerhelland.com"
+description: "free code, free music, and other free stuff from the creator of PhotoDemon"
+baseurl: "/"
+url: "https://tannerhelland.com"
+# to serve the site locally without the baseurl entry screwing things up, use "jekyll server --baseurl ''"
+github_username: tannerhelland
+rss: true
+show_excerpts: true
+google_analytics: UA-157453629-1
+
+# Header settings
+header_pages:
+  - about.md
+  - blog.md
+  - code.md
+  - contact.md
+  - donate.md
+  - music.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-sitemap
