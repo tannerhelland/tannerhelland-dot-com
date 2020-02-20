@@ -13,7 +13,7 @@ redirect_from:
 
 This program demonstrates how to create a smooth color gradient between any two colors. 
 
-![gradient_screenshot](/images/gradient_Sample_ss.png)
+![gradient_screenshot](/images/gradient_sample_ss.png)
 
 While gradients are often used for visual effects, perhaps the most useful aspect of this project is the gradient algorithm itself.  This code uses [linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation), which is a staple of many other algorithms, both graphics and otherwise.  Keep a copy in your toolbox!
 

@@ -74,12 +74,12 @@ All source code for the following projects is hosted in [a single GitHub reposit
   * [Image Histograms Part 2 (stretching and equalizing)](810/vb6-image-histograms-2/)
   * [How to build a "Curves" dialog](336/image-curves-vb6/)
   * [How to build a "Levels" dialog (input / output / midtone)](341/image-levels-vb6/)
-  * [Real-time image contrast](2008/06/29/image-contrast-vb6)
+  * [Real-time image contrast](2008/06/19/image-contrast-vb6)
 
 **Basic Image Processing**
     
   * [Filling contiguous image regions (via ExtFloodFill)](649/fill-image-regions/)
-  * [Screen capturing via the Windows API](2008/06/19/screen-capture-vb6/)
+  * [Screen capturing via the Windows API](2008/06/19/screen-capture-vb6)
   * [Smooth color gradients (linear, real-time)](47/gradients-vb6/)
 
 **Advanced Image Processing (Including Filters and FX)**
@@ -125,4 +125,4 @@ As an added bonus, VB code is practically pseudocode, making it easy to port VB 
     
 `luminance = (222 * red + 707 * green + 71 * blue) \ 1000`
 
-In recent years, I've tried to add pseudocode descriptions to my most popular projects.  If you ever find a project with VB code you can't make sense of, [let me know](contact/) so I can post a language-agnostic pseudocode version on its project page.
+In recent years, I've tried to add pseudocode descriptions to my most popular projects.  If you ever find a project with VB code you can't make sense of, [let me know](contact) so I can post a language-agnostic pseudocode version on its project page.
