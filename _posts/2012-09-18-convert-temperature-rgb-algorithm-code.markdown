@@ -232,7 +232,7 @@ Neil B has helpfully provided a better version of the original curve-fitting fun
 
 ## addendum January 2020
 
-David has ported this code to Swift.  [His work is available on GitHub](https://github.com/davidf2281/ColorTempToRGB).
+David has [ported this code to Swift](https://github.com/davidf2281/ColorTempToRGB).
 
 Tom Yaxley has [ported it to javascript](http://tommitytom.co.uk/colourtemp/).
 
@@ -241,3 +241,7 @@ Christophe Carpentier has [ported it to Java](https://github.com/Saucistophe/lib
 Mike D Sutton has [ported it to node.js](https://gist.github.com/EDais/1ba1be0fe04eca66bbd588a6c9cbd666).
 
 Robert Atkinson has [re-fit the data using Mathematica](https://github.com/rgatkinson/ParticleDmxNeopixel/tree/master/ColorTemperature) (which offers much more powerful fitting features than LibreOffice, obviously!).
+
+## addendum November 2020
+
+[m-lima](https://github.com/m-lima) has [ported this code to Rust](https://github.com/m-lima/temperagb).
