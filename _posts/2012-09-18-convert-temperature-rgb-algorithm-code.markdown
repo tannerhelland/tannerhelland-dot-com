@@ -245,3 +245,7 @@ Robert Atkinson has [re-fit the data using Mathematica](https://github.com/rgatk
 ## addendum November 2020
 
 [m-lima](https://github.com/m-lima) has [ported this code to Rust](https://github.com/m-lima/temperagb).
+
+## addendum January 2021
+
+[petrklus](https://gist.github.com/petrklus) has [ported this code to python](https://gist.github.com/petrklus/b1f427accdf7438606a6).  (Thank you to [nestorst](https://github.com/nestorst) for notifying me!)
