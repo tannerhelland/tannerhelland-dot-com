@@ -249,3 +249,7 @@ Robert Atkinson has [re-fit the data using Mathematica](https://github.com/rgatk
 ## addendum January 2021
 
 [petrklus](https://gist.github.com/petrklus) has [ported this code to python](https://gist.github.com/petrklus/b1f427accdf7438606a6).  (Thank you to [nestorst](https://github.com/nestorst) for notifying me!)
+
+## addendum March 2021
+
+[teckel12](https://github.com/teckel12) has [ported this code to PHP](https://github.com/teckel12/kelvins2RGB).
