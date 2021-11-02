@@ -253,3 +253,8 @@ Robert Atkinson has [re-fit the data using Mathematica](https://github.com/rgatk
 ## addendum March 2021
 
 [teckel12](https://github.com/teckel12) has [ported this code to PHP](https://github.com/teckel12/kelvins2RGB).
+
+## addendum October 2021
+
+[Haroon Atcha](https://github.com/haroonatcha) has [ported this code to R](https://github.com/haroonatcha/Aquarium-Pi/tree/main/led_code).
+[renaudbedard](https://twitter.com/renaudbedard) has [ported this code to GLSL](https://www.shadertoy.com/view/lsSXW1). (Thank you to Tomaž Kunaver for the notification!)
