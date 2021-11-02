@@ -224,7 +224,7 @@ Download it [here](https://photodemon.org/download) to see it in action.
 
 ## addendum October 2014
 
-[Renaud Bédard](https://twitter.com/renaudbedard) has put together a great online demonstration of this algorithm.  [Check it out here](https://www.shadertoy.com/view/lsSXW1), and thanks to Renaud for sharing!
+[Renaud Bédard](https://twitter.com/renaudbedard) has put together a great online demonstration of this algorithm (including a translation to GLSL).  [Check it out here](https://www.shadertoy.com/view/lsSXW1), and thanks to Renaud for sharing!
 
 ## addendum April 2015
 
@@ -257,5 +257,3 @@ Robert Atkinson has [re-fit the data using Mathematica](https://github.com/rgatk
 ## addendum October 2021
 
 [Haroon Atcha](https://github.com/haroonatcha) has [ported this code to R](https://github.com/haroonatcha/Aquarium-Pi/tree/main/led_code).
-
-[renaudbedard](https://twitter.com/renaudbedard) has [ported this code to GLSL](https://www.shadertoy.com/view/lsSXW1). (Thank you to Tomaž Kunaver for the notification!)
