@@ -257,3 +257,6 @@ Robert Atkinson has [re-fit the data using Mathematica](https://github.com/rgatk
 ## addendum October 2021
 
 [Haroon Atcha](https://github.com/haroonatcha) has [ported this code to R](https://github.com/haroonatcha/Aquarium-Pi/tree/main/led_code).
+
+## addendum January 2022
+[Kiryl Ambrazheichyk](https://github.com/ibober) has [ported this code to C#](https://gist.github.com/ibober/6b5a6e1dea888c01c0af175e71b15fa4).
