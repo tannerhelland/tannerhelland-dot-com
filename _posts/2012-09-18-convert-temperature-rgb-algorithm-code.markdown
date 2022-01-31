@@ -224,7 +224,7 @@ Download it [here](https://photodemon.org/download) to see it in action.
 
 ## addendum October 2014
 
-[Renaud Bédard](https://twitter.com/renaudbedard) has put together a great online demonstration of this algorithm (including a translation to GLSL).  [Check it out here](https://www.shadertoy.com/view/lsSXW1), and thanks to Renaud for sharing!
+[Renaud Bédard](https://twitter.com/renaudbedard) has put together a great online demonstration of this algorithm (including a translation to GLSL).  [Check it out here](https://www.shadertoy.com/view/lsSXW1), and thank you to Renaud for sharing!
 
 ## addendum April 2015
 
@@ -260,3 +260,6 @@ Robert Atkinson has [re-fit the data using Mathematica](https://github.com/rgatk
 
 ## addendum January 2022
 [Kiryl Ambrazheichyk](https://github.com/ibober) has [ported this code to C#](https://gist.github.com/ibober/6b5a6e1dea888c01c0af175e71b15fa4).
+
+[Jorge Valle Hurtado](https://github.com/byValle) has [ported this code to C++ for Unreal Engine](https://gist.github.com/byValle/b81391dcb2edaef9c651132ab3f123a9).
+
